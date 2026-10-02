@@ -21,6 +21,6 @@ export default function RootLayout({ children }: Readonly<{children: React.React
       <Link className="header-contact" href="/contact">Parler de mon projet</Link>
     </header>
     {children}
-    <footer className="site-footer"><div className="page-shell footer-inner"><Link className="footer-logo" href="/" aria-label="Studio Nini — accueil"><Image src="/logo-studio-nini-creme.png" alt="Studio Nini" width={160} height={90}/></Link><div><p>Papeterie & décoration événementielles</p><p>France · projets à distance</p></div><nav aria-label="Navigation secondaire">{nav.map(([label,href])=><Link key={href} href={href}>{label}</Link>)}<a href="#" aria-label="Instagram">Instagram</a></nav></div></footer>
+    <footer className="site-footer"><div className="page-shell footer-inner"><Link className="footer-logo" href="/" aria-label="Studio Nini — accueil"><Image src="/logo-studio-nini-creme.png" alt="Studio Nini" width={160} height={90}/></Link><div><p>Papeterie & décoration événementielles</p><p><a href="mailto:studio.nini@gmail.com">studio.nini@gmail.com</a> · France</p></div><nav aria-label="Navigation secondaire">{nav.map(([label,href])=><Link key={href} href={href}>{label}</Link>)}</nav></div></footer>
   </body></html>;
 }
