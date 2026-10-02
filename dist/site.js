@@ -1,1 +1,0 @@
-const h=document.querySelector('.site-header'),b=document.querySelector('.menu-toggle');b?.addEventListener('click',()=>{const o=h.classList.toggle('open');b.setAttribute('aria-expanded',o);b.textContent=o?'Fermer':'Menu'});

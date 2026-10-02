@@ -1,5 +1,14 @@
+strictDepBuilds: true
 allowBuilds:
-  esbuild: set this to true or false
-  sharp: set this to true or false
-  unrs-resolver: set this to true or false
-  workerd: set this to true or false
+  esbuild: true
+  sharp: true
+  unrs-resolver: true
+  workerd: true
+storeDir: .sites-runtime/pnpm-store
+cacheDir: .sites-runtime/pnpm-store/policy-cache
+enableGlobalVirtualStore: false
+packageImportMethod: auto
+verifyDepsBeforeRun: false
+optimisticRepeatInstall: false
+overrides:
+  miniflare>sharp: 0.35.4
