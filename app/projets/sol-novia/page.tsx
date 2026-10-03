@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -41,7 +40,7 @@ export default function SolNovia() {
         <p className="sol-eyebrow">EVJF · PAPETERIE · GOODIES · EXPÉRIENCES</p>
         <h1>Sol &amp; Novia</h1>
         <p className="sol-lead">Un univers joyeux pour donner un fil conducteur à tout un week-end.</p>
-        <Link className="button button-outline" href="/projets">Voir les autres projets <span aria-hidden="true">→</span></Link>
+        <a className="button button-outline" href="/projets">Voir les autres projets <span aria-hidden="true">→</span></a>
       </div>
       <p className="sol-side-note">Du soleil,<br/>des amies<br/>et des souvenirs<br/>pour la vie</p>
     </section>
@@ -76,7 +75,7 @@ export default function SolNovia() {
       <blockquote>Du logo au jeu,<br/>chaque création devient un souvenir<br/>du week-end.</blockquote>
       <p>Une idée en tête pour un projet qui vous ressemble ?</p>
       <h2>Parlons-en !</h2>
-      <Link className="button" href="/contact">Nous contacter <span aria-hidden="true">→</span></Link>
+      <a className="button" href="/contact">Nous contacter <span aria-hidden="true">→</span></a>
     </section>
   </main>;
 }
