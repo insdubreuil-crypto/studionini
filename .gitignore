@@ -18,6 +18,8 @@
 /.vinext/
 /out/
 /dist/
+/dist-before-home-refresh/
+/site-public/
 *.tsbuildinfo
 
 # misc
@@ -39,6 +41,10 @@ yarn-error.log*
 # typescript
 next-env.d.ts
 /.wrangler/
+/.wrangler-config/
+/public/studio-assets/
+/public/catalog/
+/public/portrait-ines.jpg
 # Checkout-local execution profile and tool state; never publish them.
 /.sites-runtime/
 /.agents/
