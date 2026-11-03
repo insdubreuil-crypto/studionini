@@ -19,7 +19,6 @@
 /out/
 /dist/
 /dist-before-home-refresh/
-/site-public/
 *.tsbuildinfo
 
 # misc
