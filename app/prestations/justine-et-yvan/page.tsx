@@ -1,0 +1,11 @@
+import { ProjectCollection } from "@/components/project-collection";
+const p="/client-assets/projets/justine-et-yvan/";
+export default function Page(){return <ProjectCollection project={{
+  eyebrow:"Mariage · Identité · Papeterie · Décoration",title:"Justine & Yvan",intro:"Une identité graphique solaire et contemporaine, imaginée pour relier le mariage civil à la grande célébration de 2027.",hero:p+"img-30.png",heroAlt:"Papeterie de Justine et Yvan",band:"Des inspirations qui guident nos réalisations.",
+  sections:[
+    {eyebrow:"Le point de départ",title:"Des inspirations à l'identité",text:"Justine, la future mariée, a été mon interlocutrice principale. À partir de ses références, trois éléments se sont imposés : des arches souples, des vagues graphiques et un citron solaire. Le dessin du couple rend l'ensemble immédiatement personnel.",images:[{src:p+"img-31.png",alt:"Faire-part de Justine et Yvan"},{src:p+"img-32.png",alt:"Site officiel de Justine et Yvan"}]},
+    {number:"02",eyebrow:"Le mariage civil",title:"Le graphisme devient gourmand",text:"Pour le mariage civil, l'univers a quitté le papier : biscuits personnalisés, gâteau d'annonce et gâteau de mariage orné du dessin du couple ont été confectionnés à la main.",images:[{src:p+"img-33.png",alt:"Biscuits personnalisés"},{src:p+"img-34.png",alt:"Gâteau d'annonce"},{src:p+"img-35.png",alt:"Gâteau de mariage"}]},
+    {number:"03",eyebrow:"Projection 2027",title:"Le citron s'invite à table",text:"Les menus, marque-places et petites attentions reprennent la forme du citron et les couleurs du faire-part. Ces visuels sont des projections qui guideront la réalisation de la papeterie et des décors du mariage à venir.",images:[{src:p+"img-36.png",alt:"Projection de papeterie de table"},{src:p+"img-37.png",alt:"Projection du bar à limoncello"}]},
+    {number:"04",eyebrow:"Signalétique et décors",title:"Guider, accueillir, faire vivre le lieu",text:"Le miroir d'accueil, le plan de table et le photobooth reprennent les formes du faire-part à grande échelle. Ils accompagnent les invités et structurent les temps forts.",images:[{src:p+"img-38.png",alt:"Miroir de bienvenue"},{src:p+"img-39.png",alt:"Plan de table"},{src:p+"img-40.png",alt:"Décor de photobooth"}]}
+  ],summary:["Identité d'événement","Papeterie sur mesure","Décoration et tables","Signalétique et organisation"]
+}}/>}

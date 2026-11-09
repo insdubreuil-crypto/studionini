@@ -1,0 +1,278 @@
+POLITIQUE DE CONFIDENTIALITÉ
+STUDIO NINI
+
+Dernière mise à jour : 7 novembre 2026
+
+Studio Nini accorde une grande importance à la protection de vos données personnelles.
+
+La présente politique explique quelles données sont collectées sur le site studionini.fr, pour quelles raisons elles sont utilisées, pendant combien de temps elles sont conservées, à qui elles peuvent être transmises et quels sont vos droits.
+
+Les traitements sont réalisés conformément au Règlement général sur la protection des données (RGPD — règlement UE 2016/679) et à la loi française « Informatique et Libertés » modifiée.
+
+
+1. RESPONSABLE DU TRAITEMENT
+
+Le responsable du traitement des données est :
+
+Inès Dubreuil, entrepreneuse individuelle exerçant sous le nom Studio Nini
+SIRET : 904 795 069 00015
+Adresse : 76 cours Émile Zola, appartement 360, 69100 Villeurbanne, France
+E-mail : contact@studionini.fr
+Site : https://studionini.fr
+
+
+2. DONNÉES PERSONNELLES COLLECTÉES
+
+2.1. Formulaire « Créer mon projet »
+
+Lorsque vous remplissez le formulaire, Studio Nini peut collecter les informations suivantes :
+
+- votre prénom et votre nom, lorsque celui-ci est demandé ;
+- votre adresse e-mail ;
+- votre numéro de téléphone, lorsque vous choisissez de le communiquer ;
+- le type d’événement ou de projet envisagé ;
+- la date ou la période de l’événement ;
+- le lieu de l’événement ;
+- le nombre approximatif d’invités ;
+- les prestations ou créations souhaitées ;
+- votre budget ou votre fourchette budgétaire ;
+- votre message et les renseignements nécessaires à la compréhension du projet ;
+- les liens d’inspiration que vous communiquez, notamment Pinterest ou Instagram ;
+- les images ou documents que vous choisissez de joindre ;
+- la manière dont vous avez connu Studio Nini.
+
+Les champs indispensables au traitement de votre demande sont signalés dans le formulaire. Les autres informations sont facultatives.
+
+La validation du formulaire peut nécessiter de confirmer que vous avez pris connaissance de la présente politique. Cette confirmation ne constitue pas le fondement juridique du traitement : les informations nécessaires à l’étude de votre projet sont principalement traitées afin de prendre des mesures précontractuelles à votre demande.
+
+Studio Nini vous invite à ne pas communiquer de données sensibles, telles que des informations relatives à votre santé, vos opinions politiques, votre religion ou votre orientation sexuelle, sauf si ces informations sont strictement indispensables à votre demande.
+
+2.2. Communications directes
+
+Lorsque vous contactez Studio Nini par e-mail, téléphone, Instagram ou tout autre moyen de communication, les informations que vous choisissez de transmettre peuvent être conservées afin de répondre à votre demande et d’assurer le suivi de votre projet.
+
+2.3. Données techniques
+
+Lors de votre navigation, l’hébergeur du site peut traiter certaines données techniques nécessaires au fonctionnement et à la sécurité du site, notamment :
+
+- l’adresse IP ;
+- la date et l’heure de la connexion ;
+- le type de navigateur et d’appareil ;
+- les pages demandées ;
+- les informations liées aux erreurs ou tentatives d’accès inhabituelles.
+
+Ces informations sont utilisées uniquement pour assurer la disponibilité, le bon fonctionnement et la sécurité du site.
+
+
+3. FINALITÉS ET FONDEMENTS JURIDIQUES
+
+3.1. Répondre à une demande et préparer un devis
+
+Les données sont utilisées pour étudier votre demande, vous contacter, vous conseiller et, le cas échéant, établir une proposition ou un devis.
+
+Fondement juridique : mesures précontractuelles prises à votre demande.
+
+3.2. Réaliser et suivre une prestation
+
+Lorsque vous devenez client, les données sont utilisées pour organiser la prestation, échanger avec vous, préparer les créations, recueillir vos validations et procéder à la livraison.
+
+Fondement juridique : exécution du contrat.
+
+3.3. Gérer la facturation et les obligations administratives
+
+Certaines informations sont utilisées pour établir les factures, suivre les paiements et respecter les obligations comptables, fiscales et légales de Studio Nini.
+
+Fondement juridique : obligation légale et exécution du contrat.
+
+3.4. Assurer le fonctionnement et la sécurité du site
+
+Des données techniques peuvent être traitées afin de sécuriser le formulaire, prévenir le spam, détecter les erreurs et protéger le site contre les accès frauduleux.
+
+Fondement juridique : intérêt légitime de Studio Nini à assurer la sécurité de son site et de ses communications.
+
+3.5. Publier une réalisation ou un témoignage
+
+Les photographies, créations, témoignages, noms ou informations permettant de vous identifier ne sont publiés sur le site ou les réseaux sociaux qu’avec votre autorisation lorsque celle-ci est nécessaire.
+
+Fondement juridique : consentement.
+
+Vous pouvez retirer ce consentement à tout moment. Ce retrait n’affecte pas la légalité des utilisations effectuées avant votre demande.
+
+Studio Nini ne réalise aucune décision entièrement automatisée ni aucun profilage à partir de vos données.
+
+Vos données ne sont ni vendues ni louées.
+
+
+4. TRAITEMENT DES DEMANDES
+
+Les informations transmises au moyen du formulaire « Créer mon projet » sont envoyées à la messagerie professionnelle de Studio Nini afin de répondre à votre demande, d’étudier votre projet et, le cas échéant, d’établir un devis.
+
+Les données ne sont pas utilisées pour créer un compte utilisateur ni à des fins publicitaires. Les éventuelles pièces jointes sont conservées uniquement pendant la durée nécessaire à l’étude ou à la réalisation du projet.
+
+
+5. DESTINATAIRES DES DONNÉES
+
+Les données sont principalement destinées à Studio Nini.
+
+Elles peuvent également être traitées par les prestataires techniques nécessaires au fonctionnement de l’activité, dans la limite de leurs missions :
+
+- IONOS SARL, pour l’hébergement du site, le nom de domaine, la messagerie associée au domaine et le traitement technique du formulaire ;
+- Google Ireland Limited et les sociétés du groupe Google concernées, dans le cadre de l’utilisation de Gmail pour recevoir et conserver les messages adressés à Studio Nini ;
+- les prestataires techniques chargés de la maintenance ou de la sécurité du site, s’il y en a ;
+- les imprimeurs, fabricants ou autres partenaires de production, lorsque la transmission de certains éléments est indispensable à la réalisation de la commande ;
+- les professionnels intervenant dans la gestion de l’activité, notamment les prestataires de facturation ou de comptabilité, lorsque cela est nécessaire ;
+- les autorités administratives ou judiciaires lorsque la loi impose cette communication.
+
+Les imprimeurs et fabricants reçoivent uniquement les informations nécessaires à la réalisation des supports commandés.
+
+
+6. TRANSFERTS DE DONNÉES HORS DE L’ESPACE ÉCONOMIQUE EUROPÉEN
+
+Studio Nini privilégie des prestataires établis dans l’Espace économique européen.
+
+Toutefois, l’utilisation de Gmail peut conduire au traitement de certaines données par Google ou ses prestataires sur des serveurs situés en dehors du pays de résidence de l’utilisateur ou de l’Espace économique européen.
+
+Google indique encadrer les transferts internationaux par les mécanismes reconnus par la réglementation applicable, notamment les décisions d’adéquation et, lorsque cela est nécessaire, les clauses contractuelles types approuvées par la Commission européenne.
+
+Pour en savoir plus, vous pouvez consulter :
+
+- les règles de confidentialité de Google : https://policies.google.com/privacy ;
+- les informations de Google relatives aux transferts de données : https://policies.google.com/privacy/frameworks.
+
+Si Studio Nini utilise ultérieurement un autre prestataire susceptible d’entraîner un transfert international de données, la présente politique sera actualisée.
+
+
+7. DURÉES DE CONSERVATION
+
+Les données sont conservées uniquement pendant la durée nécessaire à la réalisation des finalités indiquées dans la présente politique, sous réserve des obligations légales applicables.
+
+Les durées suivantes sont prévues :
+
+- demande de renseignements ou de devis sans suite : jusqu’à trois ans à compter du dernier contact émanant de la personne ;
+- données nécessaires à la réalisation d’une prestation : pendant toute la relation contractuelle ;
+- documents contractuels et éléments nécessaires à la défense des droits de Studio Nini : pendant la durée des prescriptions légales applicables, généralement cinq ans après la fin de la relation contractuelle ;
+- factures et pièces comptables : dix ans à compter de la clôture de l’exercice concerné ;
+- témoignages et réalisations publiés avec autorisation : jusqu’au retrait de l’autorisation ou jusqu’à ce que leur publication ne soit plus pertinente ;
+- fichiers transmis pour un projet : pendant la durée nécessaire à l’étude ou à la réalisation du projet, puis supprimés ou archivés lorsqu’une obligation légale ou un intérêt légitime le justifie ;
+- journaux techniques et données de sécurité : pendant la durée déterminée par l’hébergeur et strictement nécessaire à la sécurité et au fonctionnement du service.
+
+À l’issue des durées applicables, les données sont supprimées, anonymisées ou archivées avec un accès restreint lorsqu’une obligation légale impose leur conservation.
+
+
+8. SÉCURITÉ
+
+Studio Nini met en œuvre des mesures raisonnables et proportionnées afin de protéger les données contre l’accès non autorisé, la perte, l’altération ou la divulgation.
+
+Ces mesures peuvent notamment comprendre :
+
+- l’utilisation d’une connexion sécurisée HTTPS ;
+- la protection des comptes par des mots de passe personnels ;
+- l’activation de l’authentification à deux facteurs lorsque le service le permet ;
+- la limitation de l’accès aux informations ;
+- la sécurisation du formulaire contre les envois automatisés ;
+- la limitation des formats et de la taille des pièces jointes ;
+- la mise à jour régulière des composants techniques du site ;
+- la sauvegarde des informations nécessaires à l’activité.
+
+Aucun système informatique ne permettant de garantir une sécurité absolue, Studio Nini s’engage néanmoins à prendre les mesures appropriées au regard de la nature des données traitées.
+
+
+9. COOKIES ET AUTRES TRACEURS
+
+Le site studionini.fr n’utilise aucun cookie de mesure d’audience, de publicité ou de profilage.
+
+Il ne contient pas de flux de réseaux sociaux ni de contenus multimédias tiers chargés automatiquement et susceptibles de déposer des traceurs publicitaires avant le consentement de l’utilisateur.
+
+Les liens vers des services externes, notamment Instagram ou Pinterest, sont de simples liens. Aucun contenu provenant de ces plateformes n’est chargé sur le site tant que l’utilisateur ne choisit pas de les consulter.
+
+Le site peut toutefois utiliser des traceurs strictement nécessaires à son fonctionnement, notamment pour :
+
+- assurer la sécurité du formulaire ;
+- prévenir les envois automatisés ou frauduleux ;
+- maintenir temporairement les informations techniques nécessaires à l’envoi d’une demande ;
+- assurer le fonctionnement et la disponibilité du site.
+
+Ces éventuels traceurs ne sont pas utilisés à des fins publicitaires et ne permettent pas à Studio Nini de suivre la navigation de l’utilisateur sur d’autres sites. Ils ne nécessitent pas de consentement préalable lorsqu’ils sont strictement nécessaires au service demandé.
+
+Dans cette configuration, aucun bandeau de consentement aux cookies n’est affiché.
+
+Si un outil de mesure d’audience, une vidéo intégrée, un flux de réseau social ou un autre service déposant des traceurs facultatifs est ajouté ultérieurement, la présente politique sera mise à jour et un dispositif de recueil du consentement sera installé avant l’activation de ces traceurs.
+
+
+10. LIENS VERS DES SITES EXTERNES
+
+Le site peut contenir des liens vers des services externes, notamment Instagram, Pinterest ou les sites de partenaires.
+
+Lorsque vous cliquez sur l’un de ces liens, vous quittez le site de Studio Nini. Le service concerné applique alors sa propre politique de confidentialité et peut collecter des informations selon ses propres conditions.
+
+Studio Nini vous invite à consulter les politiques de confidentialité de ces services avant de leur transmettre des données personnelles.
+
+
+11. VOS DROITS
+
+Conformément à la réglementation applicable, vous pouvez bénéficier des droits suivants :
+
+- droit d’accès : obtenir la confirmation que des données vous concernant sont traitées et en recevoir une copie ;
+- droit de rectification : demander la correction de données inexactes ou incomplètes ;
+- droit à l’effacement : demander la suppression de vos données dans les situations prévues par la réglementation ;
+- droit à la limitation : demander la suspension temporaire de certains traitements ;
+- droit d’opposition : vous opposer, pour des raisons tenant à votre situation particulière, à un traitement fondé sur l’intérêt légitime ;
+- droit à la portabilité : recevoir certaines données dans un format structuré et lisible par machine lorsque les conditions légales sont réunies ;
+- droit de retirer votre consentement : à tout moment pour les traitements fondés sur celui-ci ;
+- droit de définir des directives relatives au sort de vos données après votre décès, dans les conditions prévues par la loi française.
+
+L’exercice de certains droits peut être limité lorsqu’une obligation légale impose à Studio Nini de conserver les informations ou lorsque leur conservation est nécessaire à la constatation, à l’exercice ou à la défense d’un droit en justice.
+
+
+12. EXERCICE DE VOS DROITS
+
+Pour exercer vos droits ou poser une question concernant vos données, vous pouvez écrire à :
+
+contact@studionini.fr
+
+ou par courrier à :
+
+Studio Nini – Inès Dubreuil
+76 cours Émile Zola, appartement 360
+69100 Villeurbanne
+France
+
+Studio Nini pourra demander des informations complémentaires permettant de vérifier votre identité uniquement en cas de doute raisonnable. Une copie intégrale d’une pièce d’identité ne sera pas demandée systématiquement.
+
+Studio Nini répondra dans le délai prévu par la réglementation, généralement dans un délai d’un mois à compter de la réception d’une demande complète.
+
+
+13. RÉCLAMATION AUPRÈS DE LA CNIL
+
+Si vous estimez, après avoir contacté Studio Nini, que vos droits ne sont pas respectés, vous pouvez adresser une réclamation à :
+
+Commission nationale de l’informatique et des libertés – CNIL
+3 place de Fontenoy
+TSA 80715
+75334 Paris Cedex 07
+France
+
+Site : https://www.cnil.fr
+
+
+14. DONNÉES CONCERNANT LES MINEURS
+
+Le site et les prestations de Studio Nini sont destinés à des personnes majeures.
+
+Studio Nini ne cherche pas à collecter directement des données concernant des mineurs. Les informations relatives à des enfants éventuellement nécessaires à la personnalisation d’un événement doivent être transmises par leur représentant légal et limitées au strict nécessaire.
+
+
+15. MODIFICATION DE LA POLITIQUE
+
+Studio Nini peut modifier la présente politique afin de tenir compte de l’évolution du site, des prestations, des outils utilisés ou de la réglementation.
+
+La date de dernière mise à jour est indiquée au début du document. En cas de modification importante, une information pourra être affichée sur le site.
+
+
+CONTACT
+
+Pour toute question relative à la présente politique ou à l’utilisation de vos données :
+
+Studio Nini – Inès Dubreuil
+E-mail : contact@studionini.fr
+Adresse : 76 cours Émile Zola, appartement 360, 69100 Villeurbanne, France

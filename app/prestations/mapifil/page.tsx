@@ -1,0 +1,12 @@
+import { ProjectCollection } from "@/components/project-collection";
+const p="/client-assets/projets/mapifil/";
+export default function Page(){return <ProjectCollection project={{
+ eyebrow:"Mariage · Papeterie · Décoration · Organisation",title:"Mapifil",intro:"Un mariage sur un week-end, à vivre du premier courrier au dernier panneau.",hero:p+"mapifil (1).png",heroAlt:"Univers du mariage Mapifil",band:"Un seul univers, trois jours à vivre.",
+ sections:[
+  {eyebrow:"Le point de départ",title:"Simple, naturel, à leur image",text:"Marie-Pierre et Philippe souhaitaient recevoir leurs proches dans un univers chaleureux inspiré par le bois, le papier kraft et les fleurs des champs. Leur portrait illustré devient le fil rouge de tout le week-end.",images:[{src:p+"mapifil (2).png",alt:"Identité du mariage Mapifil"}]},
+  {number:"01",eyebrow:"Avant le jour J",title:"Inviter et informer",text:"Le faire-part annonce la date, donne le ton et simplifie l'arrivée des invités grâce au plan illustré du lieu et aux informations essentielles.",images:[{src:p+"mapifil (3).png",alt:"Faire-part Mapifil"},{src:p+"mapifil (4).png",alt:"Plan illustré du lieu"}]},
+  {number:"02",eyebrow:"Accueillir",title:"Un pack pour entrer dans le week-end",text:"À leur arrivée, les invités découvrent le programme et des biscuits personnalisés : un ensemble pensé pour les orienter, les accueillir et laisser un premier souvenir.",images:[{src:p+"mapifil (5).png",alt:"Programme du week-end"},{src:p+"mapifil (6).png",alt:"Biscuits personnalisés"}]},
+  {number:"03",eyebrow:"Art de la table",title:"Chaque détail trouve naturellement sa place",text:"Menus, marque-places, étiquettes de buffet et fleurs prolongent l'identité sans surcharger la table.",images:[{src:p+"mapifil (7).png",alt:"Décoration de table"},{src:p+"mapifil (8).png",alt:"Marque-place"},{src:p+"mapifil (9).png",alt:"Étiquettes de buffet"}]},
+  {number:"04",eyebrow:"Mettre en scène",title:"Le décor raconte aussi leur histoire",text:"Le portrait des mariés devient un décor de gâteau, tandis que le plan de table transforme leurs voyages en invitations à se rencontrer. Le livre d'or collectif se remplit des portraits dessinés par les invités.",images:[{src:p+"mapifil (10).png",alt:"Gâteau signature"},{src:p+"mapifil (11).png",alt:"Plan de table voyage"},{src:p+"mapifil (12).png",alt:"Livre d'or collectif"}]}
+ ],summary:["Identité d'événement","Papeterie sur mesure","Pack d'accueil","Décoration et signalétique"]
+}}/>}
