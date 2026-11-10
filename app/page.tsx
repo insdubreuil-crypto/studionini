@@ -2,8 +2,8 @@
 import Image from "next/image";
 
 const projects = [
-  ["/client-assets/prestations/soletnovia-evjf.png", "Sol & Novia", "EVJF", "/prestations/sol-et-novia"],
-  ["/client-assets/prestations/justineetyvan-mariage.png", "Justine & Yvan", "Mariage", "/prestations/justine-et-yvan"],
+  ["/client-assets/prestations/soletnovia-evjf.png", "Sol & Novia", "/prestations/sol-et-novia"],
+  ["/client-assets/prestations/justineetyvan-mariage.png", "Justine & Yvan", "/prestations/justine-et-yvan"],
 ] as const;
 
 const shortcuts = [
@@ -81,8 +81,8 @@ export default function Home() {
 
     <section className="nini-projects nini-shell">
       <p className="nini-intro">Identité, papeterie, décoration, objets et organisation imaginés à partir de votre histoire et de vos besoins.</p>
-      <div className="nini-project-grid">{projects.map(([src,title,type,href]) => <a href={href} key={href}>
-        <div><Image src={src} alt={title} fill sizes="(max-width:700px) 100vw,50vw" /></div><span>{type}</span><h2>{title}</h2>
+      <div className="nini-project-grid">{projects.map(([src,title,href]) => <a href={href} key={href} aria-label={`Découvrir le projet ${title}`}>
+        <div><Image src={src} alt={title} fill sizes="(max-width:700px) 100vw,50vw" /></div>
       </a>)}</div>
       <nav className="nini-home-shortcuts" aria-label="Accès direct aux créations">{shortcuts.map(([src,title,href]) => <a href={href} key={title}>
         <div><Image src={src} alt="" fill sizes="(max-width:620px) 50vw,25vw" /></div><span>{title}</span>
