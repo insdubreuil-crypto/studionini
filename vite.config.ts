@@ -51,7 +51,10 @@ export default defineConfig(async () => {
   const { cloudflare } = await import("@cloudflare/vite-plugin");
 
   return {
-    publicDir: "site-public",
+    // All page imagery (homepage, prestations and project galleries) lives in
+    // `public/`. Using the old `site-public/` directory silently omitted the
+    // client-assets tree from production builds, leaving empty image frames.
+    publicDir: "public",
     server: {
       ...(managedLinux ? { host: "0.0.0.0", allowedHosts: ["terminal.local"] } : {}),
       ...(isCodexSeatbeltSandbox ? { watch: { useFsEvents: false, usePolling: true } } : {}),
